@@ -31,7 +31,7 @@ index 15b5a2b..bf13c06 100644
 
 
 ### License
-![WTFPL Logo](//upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)
+![WTFPL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)
 
 Copyright 2018 Jakub Jankiewicz <https://jcubic.pl/>
 
